@@ -1,0 +1,8 @@
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Conta_Operador_Telefone\Conta_Operador_Telefone\obj\Debug\Conta_Operador_Telefone.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Conta_Operador_Telefone\Conta_Operador_Telefone\obj\Debug\Conta_Operador_Telefone.csproj.SuggestedBindingRedirects.cache
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Conta_Operador_Telefone\Conta_Operador_Telefone\obj\Debug\Conta_Operador_Telefone.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Conta_Operador_Telefone\Conta_Operador_Telefone\bin\Debug\Conta_Operador_Telefone.exe.config
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Conta_Operador_Telefone\Conta_Operador_Telefone\bin\Debug\Conta_Operador_Telefone.exe
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Conta_Operador_Telefone\Conta_Operador_Telefone\bin\Debug\Conta_Operador_Telefone.pdb
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Conta_Operador_Telefone\Conta_Operador_Telefone\obj\Debug\Conta_Operador_Telefone.exe
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Conta_Operador_Telefone\Conta_Operador_Telefone\obj\Debug\Conta_Operador_Telefone.pdb

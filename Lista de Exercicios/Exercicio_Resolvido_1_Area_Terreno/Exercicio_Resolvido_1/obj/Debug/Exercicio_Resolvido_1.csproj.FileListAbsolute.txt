@@ -1,0 +1,16 @@
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\Exercicio_Resolvido_1\Exercicio_Resolvido_1\bin\Debug\Exercicio_Resolvido_1.exe.config
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\Exercicio_Resolvido_1\Exercicio_Resolvido_1\bin\Debug\Exercicio_Resolvido_1.exe
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\Exercicio_Resolvido_1\Exercicio_Resolvido_1\bin\Debug\Exercicio_Resolvido_1.pdb
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\Exercicio_Resolvido_1\Exercicio_Resolvido_1\obj\Debug\Exercicio_Resolvido_1.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\Exercicio_Resolvido_1\Exercicio_Resolvido_1\obj\Debug\Exercicio_Resolvido_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\Exercicio_Resolvido_1\Exercicio_Resolvido_1\obj\Debug\Exercicio_Resolvido_1.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\Exercicio_Resolvido_1\Exercicio_Resolvido_1\obj\Debug\Exercicio_Resolvido_1.exe
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\Exercicio_Resolvido_1\Exercicio_Resolvido_1\obj\Debug\Exercicio_Resolvido_1.pdb
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\Exercicio_Resolvido_1_Area_Terreno\Exercicio_Resolvido_1\bin\Debug\Exercicio_Resolvido_1.exe.config
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\Exercicio_Resolvido_1_Area_Terreno\Exercicio_Resolvido_1\bin\Debug\Exercicio_Resolvido_1.exe
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\Exercicio_Resolvido_1_Area_Terreno\Exercicio_Resolvido_1\bin\Debug\Exercicio_Resolvido_1.pdb
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\Exercicio_Resolvido_1_Area_Terreno\Exercicio_Resolvido_1\obj\Debug\Exercicio_Resolvido_1.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\Exercicio_Resolvido_1_Area_Terreno\Exercicio_Resolvido_1\obj\Debug\Exercicio_Resolvido_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\Exercicio_Resolvido_1_Area_Terreno\Exercicio_Resolvido_1\obj\Debug\Exercicio_Resolvido_1.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\Exercicio_Resolvido_1_Area_Terreno\Exercicio_Resolvido_1\obj\Debug\Exercicio_Resolvido_1.exe
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\Exercicio_Resolvido_1_Area_Terreno\Exercicio_Resolvido_1\obj\Debug\Exercicio_Resolvido_1.pdb

@@ -1,0 +1,8 @@
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\URI 1040\URI 1040\bin\Debug\URI 1040.exe.config
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\URI 1040\URI 1040\bin\Debug\URI 1040.exe
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\URI 1040\URI 1040\bin\Debug\URI 1040.pdb
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\URI 1040\URI 1040\obj\Debug\URI 1040.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\URI 1040\URI 1040\obj\Debug\URI 1040.csproj.SuggestedBindingRedirects.cache
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\URI 1040\URI 1040\obj\Debug\URI 1040.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\URI 1040\URI 1040\obj\Debug\URI 1040.exe
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\URI 1040\URI 1040\obj\Debug\URI 1040.pdb

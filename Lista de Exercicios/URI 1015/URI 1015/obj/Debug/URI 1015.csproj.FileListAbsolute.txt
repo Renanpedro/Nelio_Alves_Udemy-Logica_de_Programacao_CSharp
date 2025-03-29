@@ -1,0 +1,8 @@
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\URI 1015\URI 1015\bin\Debug\URI 1015.exe.config
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\URI 1015\URI 1015\bin\Debug\URI 1015.exe
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\URI 1015\URI 1015\bin\Debug\URI 1015.pdb
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\URI 1015\URI 1015\obj\Debug\URI 1015.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\URI 1015\URI 1015\obj\Debug\URI 1015.csproj.SuggestedBindingRedirects.cache
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\URI 1015\URI 1015\obj\Debug\URI 1015.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\URI 1015\URI 1015\obj\Debug\URI 1015.exe
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\URI 1015\URI 1015\obj\Debug\URI 1015.pdb

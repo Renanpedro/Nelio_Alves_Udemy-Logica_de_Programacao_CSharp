@@ -1,0 +1,8 @@
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\URI 1003\URI 1003\bin\Debug\URI 1003.exe.config
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\URI 1003\URI 1003\bin\Debug\URI 1003.exe
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\URI 1003\URI 1003\bin\Debug\URI 1003.pdb
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\URI 1003\URI 1003\obj\Debug\URI 1003.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\URI 1003\URI 1003\obj\Debug\URI 1003.csproj.SuggestedBindingRedirects.cache
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\URI 1003\URI 1003\obj\Debug\URI 1003.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\URI 1003\URI 1003\obj\Debug\URI 1003.exe
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\URI 1003\URI 1003\obj\Debug\URI 1003.pdb

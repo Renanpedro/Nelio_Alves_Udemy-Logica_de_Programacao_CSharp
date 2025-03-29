@@ -1,0 +1,8 @@
+C:\Users\renan\Desktop\ESTUDO\C#\C# DO BÁSICO AO AVANÇADO\ExercicioVetoresParesImpares\ExercicioVetoresParesImpares\bin\Debug\ExercicioVetoresParesImpares.exe.config
+C:\Users\renan\Desktop\ESTUDO\C#\C# DO BÁSICO AO AVANÇADO\ExercicioVetoresParesImpares\ExercicioVetoresParesImpares\bin\Debug\ExercicioVetoresParesImpares.exe
+C:\Users\renan\Desktop\ESTUDO\C#\C# DO BÁSICO AO AVANÇADO\ExercicioVetoresParesImpares\ExercicioVetoresParesImpares\bin\Debug\ExercicioVetoresParesImpares.pdb
+C:\Users\renan\Desktop\ESTUDO\C#\C# DO BÁSICO AO AVANÇADO\ExercicioVetoresParesImpares\ExercicioVetoresParesImpares\obj\Debug\ExercicioVetoresParesImpares.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\ESTUDO\C#\C# DO BÁSICO AO AVANÇADO\ExercicioVetoresParesImpares\ExercicioVetoresParesImpares\obj\Debug\ExercicioVetoresParesImpares.csproj.SuggestedBindingRedirects.cache
+C:\Users\renan\Desktop\ESTUDO\C#\C# DO BÁSICO AO AVANÇADO\ExercicioVetoresParesImpares\ExercicioVetoresParesImpares\obj\Debug\ExercicioVetoresParesImpares.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\ESTUDO\C#\C# DO BÁSICO AO AVANÇADO\ExercicioVetoresParesImpares\ExercicioVetoresParesImpares\obj\Debug\ExercicioVetoresParesImpares.exe
+C:\Users\renan\Desktop\ESTUDO\C#\C# DO BÁSICO AO AVANÇADO\ExercicioVetoresParesImpares\ExercicioVetoresParesImpares\obj\Debug\ExercicioVetoresParesImpares.pdb

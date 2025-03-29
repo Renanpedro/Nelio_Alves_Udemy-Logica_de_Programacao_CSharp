@@ -1,0 +1,8 @@
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\URI 1013\URI 1013\bin\Debug\URI 1013.exe.config
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\URI 1013\URI 1013\bin\Debug\URI 1013.exe
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\URI 1013\URI 1013\bin\Debug\URI 1013.pdb
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\URI 1013\URI 1013\obj\Debug\URI 1013.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\URI 1013\URI 1013\obj\Debug\URI 1013.csproj.SuggestedBindingRedirects.cache
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\URI 1013\URI 1013\obj\Debug\URI 1013.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\URI 1013\URI 1013\obj\Debug\URI 1013.exe
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\URI 1013\URI 1013\obj\Debug\URI 1013.pdb

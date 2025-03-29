@@ -1,0 +1,8 @@
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Dias_Da_Semana_Switch_Case\Dias_Da_Semana_Switch_Case\bin\Debug\Dias_Da_Semana_Switch_Case.exe.config
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Dias_Da_Semana_Switch_Case\Dias_Da_Semana_Switch_Case\bin\Debug\Dias_Da_Semana_Switch_Case.exe
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Dias_Da_Semana_Switch_Case\Dias_Da_Semana_Switch_Case\bin\Debug\Dias_Da_Semana_Switch_Case.pdb
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Dias_Da_Semana_Switch_Case\Dias_Da_Semana_Switch_Case\obj\Debug\Dias_Da_Semana_Switch_Case.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Dias_Da_Semana_Switch_Case\Dias_Da_Semana_Switch_Case\obj\Debug\Dias_Da_Semana_Switch_Case.csproj.SuggestedBindingRedirects.cache
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Dias_Da_Semana_Switch_Case\Dias_Da_Semana_Switch_Case\obj\Debug\Dias_Da_Semana_Switch_Case.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Dias_Da_Semana_Switch_Case\Dias_Da_Semana_Switch_Case\obj\Debug\Dias_Da_Semana_Switch_Case.exe
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Dias_Da_Semana_Switch_Case\Dias_Da_Semana_Switch_Case\obj\Debug\Dias_Da_Semana_Switch_Case.pdb

@@ -1,0 +1,8 @@
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Exemplo_Exercicio_com_Vetor\Exemplo_Exercicio_com_Vetor\bin\Debug\Exemplo_Exercicio_com_Vetor.exe.config
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Exemplo_Exercicio_com_Vetor\Exemplo_Exercicio_com_Vetor\bin\Debug\Exemplo_Exercicio_com_Vetor.exe
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Exemplo_Exercicio_com_Vetor\Exemplo_Exercicio_com_Vetor\bin\Debug\Exemplo_Exercicio_com_Vetor.pdb
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Exemplo_Exercicio_com_Vetor\Exemplo_Exercicio_com_Vetor\obj\Debug\Exemplo_Exercicio_com_Vetor.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Exemplo_Exercicio_com_Vetor\Exemplo_Exercicio_com_Vetor\obj\Debug\Exemplo_Exercicio_com_Vetor.csproj.SuggestedBindingRedirects.cache
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Exemplo_Exercicio_com_Vetor\Exemplo_Exercicio_com_Vetor\obj\Debug\Exemplo_Exercicio_com_Vetor.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Exemplo_Exercicio_com_Vetor\Exemplo_Exercicio_com_Vetor\obj\Debug\Exemplo_Exercicio_com_Vetor.exe
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Exemplo_Exercicio_com_Vetor\Exemplo_Exercicio_com_Vetor\obj\Debug\Exemplo_Exercicio_com_Vetor.pdb

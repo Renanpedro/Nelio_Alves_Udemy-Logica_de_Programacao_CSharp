@@ -1,0 +1,8 @@
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Estrutura_Rep_Para_For\Estrutura_Rep_Para_For\bin\Debug\Estrutura_Rep_Para_For.exe.config
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Estrutura_Rep_Para_For\Estrutura_Rep_Para_For\bin\Debug\Estrutura_Rep_Para_For.exe
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Estrutura_Rep_Para_For\Estrutura_Rep_Para_For\bin\Debug\Estrutura_Rep_Para_For.pdb
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Estrutura_Rep_Para_For\Estrutura_Rep_Para_For\obj\Debug\Estrutura_Rep_Para_For.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Estrutura_Rep_Para_For\Estrutura_Rep_Para_For\obj\Debug\Estrutura_Rep_Para_For.csproj.SuggestedBindingRedirects.cache
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Estrutura_Rep_Para_For\Estrutura_Rep_Para_For\obj\Debug\Estrutura_Rep_Para_For.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Estrutura_Rep_Para_For\Estrutura_Rep_Para_For\obj\Debug\Estrutura_Rep_Para_For.exe
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Estrutura_Rep_Para_For\Estrutura_Rep_Para_For\obj\Debug\Estrutura_Rep_Para_For.pdb

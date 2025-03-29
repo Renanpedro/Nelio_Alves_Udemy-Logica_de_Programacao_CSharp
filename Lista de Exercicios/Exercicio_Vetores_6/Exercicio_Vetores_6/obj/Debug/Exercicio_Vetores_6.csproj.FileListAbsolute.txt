@@ -1,0 +1,8 @@
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Exercicio_Vetores_6\Exercicio_Vetores_6\bin\Debug\Exercicio_Vetores_6.exe.config
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Exercicio_Vetores_6\Exercicio_Vetores_6\bin\Debug\Exercicio_Vetores_6.exe
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Exercicio_Vetores_6\Exercicio_Vetores_6\bin\Debug\Exercicio_Vetores_6.pdb
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Exercicio_Vetores_6\Exercicio_Vetores_6\obj\Debug\Exercicio_Vetores_6.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Exercicio_Vetores_6\Exercicio_Vetores_6\obj\Debug\Exercicio_Vetores_6.csproj.SuggestedBindingRedirects.cache
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Exercicio_Vetores_6\Exercicio_Vetores_6\obj\Debug\Exercicio_Vetores_6.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Exercicio_Vetores_6\Exercicio_Vetores_6\obj\Debug\Exercicio_Vetores_6.exe
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Exercicio_Vetores_6\Exercicio_Vetores_6\obj\Debug\Exercicio_Vetores_6.pdb

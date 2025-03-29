@@ -1,0 +1,8 @@
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Exercicio_Estrutura_Sequencial\Exercicio_Estrutura_Sequencial\bin\Debug\Exercicio_Estrutura_Sequencial.exe.config
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Exercicio_Estrutura_Sequencial\Exercicio_Estrutura_Sequencial\bin\Debug\Exercicio_Estrutura_Sequencial.exe
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Exercicio_Estrutura_Sequencial\Exercicio_Estrutura_Sequencial\bin\Debug\Exercicio_Estrutura_Sequencial.pdb
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Exercicio_Estrutura_Sequencial\Exercicio_Estrutura_Sequencial\obj\Debug\Exercicio_Estrutura_Sequencial.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Exercicio_Estrutura_Sequencial\Exercicio_Estrutura_Sequencial\obj\Debug\Exercicio_Estrutura_Sequencial.csproj.SuggestedBindingRedirects.cache
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Exercicio_Estrutura_Sequencial\Exercicio_Estrutura_Sequencial\obj\Debug\Exercicio_Estrutura_Sequencial.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Exercicio_Estrutura_Sequencial\Exercicio_Estrutura_Sequencial\obj\Debug\Exercicio_Estrutura_Sequencial.exe
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Exercicio_Estrutura_Sequencial\Exercicio_Estrutura_Sequencial\obj\Debug\Exercicio_Estrutura_Sequencial.pdb

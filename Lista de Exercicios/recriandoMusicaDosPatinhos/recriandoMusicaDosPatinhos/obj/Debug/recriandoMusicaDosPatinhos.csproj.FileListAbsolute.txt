@@ -1,0 +1,8 @@
+C:\Users\renan\Desktop\ESTUDO\C#\C# DO BÁSICO AO AVANÇADO\recriandoMusicaDosPatinhos\recriandoMusicaDosPatinhos\bin\Debug\recriandoMusicaDosPatinhos.exe.config
+C:\Users\renan\Desktop\ESTUDO\C#\C# DO BÁSICO AO AVANÇADO\recriandoMusicaDosPatinhos\recriandoMusicaDosPatinhos\bin\Debug\recriandoMusicaDosPatinhos.exe
+C:\Users\renan\Desktop\ESTUDO\C#\C# DO BÁSICO AO AVANÇADO\recriandoMusicaDosPatinhos\recriandoMusicaDosPatinhos\bin\Debug\recriandoMusicaDosPatinhos.pdb
+C:\Users\renan\Desktop\ESTUDO\C#\C# DO BÁSICO AO AVANÇADO\recriandoMusicaDosPatinhos\recriandoMusicaDosPatinhos\obj\Debug\recriandoMusicaDosPatinhos.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\ESTUDO\C#\C# DO BÁSICO AO AVANÇADO\recriandoMusicaDosPatinhos\recriandoMusicaDosPatinhos\obj\Debug\recriandoMusicaDosPatinhos.csproj.SuggestedBindingRedirects.cache
+C:\Users\renan\Desktop\ESTUDO\C#\C# DO BÁSICO AO AVANÇADO\recriandoMusicaDosPatinhos\recriandoMusicaDosPatinhos\obj\Debug\recriandoMusicaDosPatinhos.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\ESTUDO\C#\C# DO BÁSICO AO AVANÇADO\recriandoMusicaDosPatinhos\recriandoMusicaDosPatinhos\obj\Debug\recriandoMusicaDosPatinhos.exe
+C:\Users\renan\Desktop\ESTUDO\C#\C# DO BÁSICO AO AVANÇADO\recriandoMusicaDosPatinhos\recriandoMusicaDosPatinhos\obj\Debug\recriandoMusicaDosPatinhos.pdb

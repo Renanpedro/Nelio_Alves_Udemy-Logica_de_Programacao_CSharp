@@ -1,0 +1,8 @@
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Estrutura_Rep_Do_While\Estrutura_Rep_Do_While\bin\Debug\Estrutura_Rep_Do_While.exe.config
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Estrutura_Rep_Do_While\Estrutura_Rep_Do_While\bin\Debug\Estrutura_Rep_Do_While.exe
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Estrutura_Rep_Do_While\Estrutura_Rep_Do_While\bin\Debug\Estrutura_Rep_Do_While.pdb
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Estrutura_Rep_Do_While\Estrutura_Rep_Do_While\obj\Debug\Estrutura_Rep_Do_While.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Estrutura_Rep_Do_While\Estrutura_Rep_Do_While\obj\Debug\Estrutura_Rep_Do_While.csproj.SuggestedBindingRedirects.cache
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Estrutura_Rep_Do_While\Estrutura_Rep_Do_While\obj\Debug\Estrutura_Rep_Do_While.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Estrutura_Rep_Do_While\Estrutura_Rep_Do_While\obj\Debug\Estrutura_Rep_Do_While.exe
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\LISTA DE EXERCICIOS\Estrutura_Rep_Do_While\Estrutura_Rep_Do_While\obj\Debug\Estrutura_Rep_Do_While.pdb

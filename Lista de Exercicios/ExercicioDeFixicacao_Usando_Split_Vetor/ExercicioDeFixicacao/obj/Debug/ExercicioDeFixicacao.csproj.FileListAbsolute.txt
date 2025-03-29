@@ -1,0 +1,8 @@
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\ExercicioDeFixicacao\ExercicioDeFixicacao\bin\Debug\ExercicioDeFixicacao.exe.config
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\ExercicioDeFixicacao\ExercicioDeFixicacao\bin\Debug\ExercicioDeFixicacao.exe
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\ExercicioDeFixicacao\ExercicioDeFixicacao\bin\Debug\ExercicioDeFixicacao.pdb
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\ExercicioDeFixicacao\ExercicioDeFixicacao\obj\Debug\ExercicioDeFixicacao.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\ExercicioDeFixicacao\ExercicioDeFixicacao\obj\Debug\ExercicioDeFixicacao.csproj.SuggestedBindingRedirects.cache
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\ExercicioDeFixicacao\ExercicioDeFixicacao\obj\Debug\ExercicioDeFixicacao.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\ExercicioDeFixicacao\ExercicioDeFixicacao\obj\Debug\ExercicioDeFixicacao.exe
+C:\Users\renan\Desktop\ESTUDO\logica-de-programacao-com-c#\ExercicioDeFixicacao\ExercicioDeFixicacao\obj\Debug\ExercicioDeFixicacao.pdb
